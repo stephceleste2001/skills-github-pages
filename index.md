@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: How To Take Care of a Dog
 ---
 
